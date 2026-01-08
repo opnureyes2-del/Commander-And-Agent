@@ -1,0 +1,40 @@
+timestamp: '2026-01-01T21:35:38.626138'
+metadata:
+  folder_id: P-003-commander-and-agent
+  folder_prefix: P
+  folder_number: 3
+  folder_name: commander-and-agent
+  client_name: Commander & Agent
+  client_type: Internal Tool
+  industry: Agent Systems
+  network: Cirkelline
+  project_type: Agent Command System
+  project_status: Active
+  project_stage: Development
+  created_date: '2024-12-05'
+  owner: Rasmus
+  priority: Medium
+  budget_category: Internal
+  renewal_date: null
+  contract_value: null
+  tech_stack: []
+  database: null
+  services: []
+  cirkelline_id: null
+  github_repo: null
+  documentation_url: null
+  dependencies: []
+  dependents: []
+  tags:
+  - status:active
+  - stage:development
+  - network:cirkelline
+  - priority:medium
+  - industry:agent-systems
+  metadata_version: '1.0'
+  last_updated: '2026-01-01T21:35:38.624603'
+  last_updated_by: system
+  metrics: null
+changed_by: system
+changes:
+  action: created
