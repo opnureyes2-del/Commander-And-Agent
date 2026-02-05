@@ -1,5 +1,5 @@
 # API Summary - commander-and-agent
-**Generated:** Sat Jan 10 02:00:01 AM CET 2026
+**Generated:** Thu Feb  5 12:30:01 PM CET 2026
 **Endpoints:** 25
 
 ## Available at:
